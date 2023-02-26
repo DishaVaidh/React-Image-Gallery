@@ -1,0 +1,65 @@
+.profile-info {
+  display: flex;
+}
+.body-img {
+  border-radius: 2rem;
+  width: 2rem;
+  height: 2rem;
+}
+.card-img {
+  height: 15rem;
+}
+.user-details {
+  margin-left: 0.5rem;
+}
+
+.user-name {
+  font-size: small;
+}
+
+.user-id {
+  font-size: x-small;
+}
+
+.like-details {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 0.8rem;
+}
+
+.like-img {
+  width: 0.8rem;
+  height: 0.8rem;
+  margin: 0.2rem;
+}
+
+.popup-modal-body {
+  margin-top: 1rem;
+}
+
+.social-details {
+  display: flex;
+  align-items: center;
+  margin: 0.8rem;
+}
+
+.social-img {
+  width: 0.6rem;
+  height: 0.6rem;
+}
+
+.social-detail-with-icon {
+  align-items: center;
+  display: flex;
+  margin: 0 0.8rem;
+}
+
+.tag-style {
+  font-size: x-small;
+  border: 0.1rem solid rgba(221, 219, 219, 0.95);
+  border-radius: 0.2rem;
+  background-color: rgba(221, 219, 219, 0.95);
+  margin: 0.4rem;
+  padding: 0.2rem;
+}
